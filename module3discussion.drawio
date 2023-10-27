@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T21:56:34.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="J3cQYllpTe0IQXTBbnPe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T00:35:52.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="s57qAwGPixkSfUPNlLUp" version="22.0.8" type="github">
   <diagram name="Page-1" id="e4JDqQGZGPOrhwI8oui5">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DvVf1-jkTaxS_m6m-84w-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVf1-jkTaxS_m6m-84w-2" value="&lt;font face=&quot;Courier New&quot;&gt;Declarations&lt;br&gt;&amp;nbsp; let pageFirst&lt;br&gt;&amp;nbsp; let pageLast&lt;br&gt;&amp;nbsp; let pageCurrent&lt;br&gt;&amp;nbsp; let pageRandom&lt;br&gt;&amp;nbsp; let pageTotal&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVf1-jkTaxS_m6m-84w-3" value="&lt;font face=&quot;Courier New&quot;&gt;getRandomPageNumber()&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;size=0.02631578947368421;" vertex="1" parent="1">
+          <mxGeometry x="112" y="280" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVf1-jkTaxS_m6m-84w-4" value="&lt;font face=&quot;Courier New&quot;&gt;getRandomPageNumber()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVf1-jkTaxS_m6m-84w-5" value="&lt;font face=&quot;Courier New&quot;&gt;function getRandomNumber()&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="454" y="170" width="280" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
