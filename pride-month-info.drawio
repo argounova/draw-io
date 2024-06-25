@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T19:54:17.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="3NxnDu1fMfalwaBCiIl-" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T20:08:16.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0Pbhj_1JfQtSgcTv9zzR" version="24.6.2" type="github">
   <diagram name="Page-1" id="uHh3shtCHyWxDmY_Cp5f">
-    <mxGraphModel>
+    <mxGraphModel dx="2963" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DjwjksHMTlBEf1zUzT7C-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px; font-family: Verdana; caret-color: rgb(255, 0, 0); text-align: start;&quot;&gt;Lesbian, Gay, Bisexual, Transgender and Queer, Intersex &amp;amp; Asexual&lt;span style=&quot;&quot; class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px; font-family: Verdana; caret-color: rgb(255, 0, 0); text-align: start;&quot;&gt;(LGBTQIA)&lt;/b&gt;&lt;span style=&quot;font-size: 18px; font-family: Verdana; caret-color: rgb(255, 0, 0); text-align: start;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;Pride Month is currently celebrated each year in the month of June to honor the&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: start;&quot;&gt;1969 Stonewall Uprising in Manhattan&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; font-family: Verdana; caret-color: rgb(255, 0, 0); text-align: start;&quot;&gt;. At the ERCHO Conference in November 1969, the 13 homophile organizations in attendance voted to pass a resolution to organize a national annual demonstration, to be called Christopher Street Liberation Day.&amp;nbsp;The first Pride march in New York City was held on June 28, 1970, on the one-year anniversary of the Uprising.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="850" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
