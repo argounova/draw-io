@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T16:07:57.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DfTHcH3m4L4yfXXobQHW" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T16:20:20.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x2E_sqZukXsOQ5J2tfr_" version="24.6.2" type="github">
   <diagram name="Page-1" id="uHh3shtCHyWxDmY_Cp5f">
     <mxGraphModel dx="7763" dy="3720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,16 +85,10 @@
         <mxCell id="DjwjksHMTlBEf1zUzT7C-22" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;Pride is for everyone&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;&lt;br style=&quot;font-size: 35px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Pride Month is an opportunity to celebrate diversity, promote acceptance, and stand in solidarity with the LGBTQ+ community.&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;&lt;br style=&quot;font-size: 35px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;spacingLeft=15;spacingBottom=0;spacingRight=15;fillColor=#770088;fontSize=35;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-160" y="530" width="280" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="DjwjksHMTlBEf1zUzT7C-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=17;rounded=0;shadow=1;strokeColor=#770088;" edge="1" parent="1" target="DjwjksHMTlBEf1zUzT7C-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="1170" as="sourcePoint" />
-            <mxPoint x="280" y="1110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DjwjksHMTlBEf1zUzT7C-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=17;rounded=0;shadow=1;startArrow=diamondThin;startFill=1;strokeColor=#770088;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="169" y="1165" as="sourcePoint" />
-            <mxPoint x="309" y="1165" as="targetPoint" />
+            <mxPoint x="139" y="895" as="sourcePoint" />
+            <mxPoint x="279" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjwjksHMTlBEf1zUzT7C-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF8D00;strokeColor=#FF8D00;strokeWidth=4;shadow=1;" vertex="1" parent="1">
