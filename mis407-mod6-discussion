@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T20:16:38.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q8AHUw_8_7Y9bwMSEgWi" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T20:21:06.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EUDk3Qelz72ETuYcc8ju" version="24.6.4" type="github">
   <diagram name="Page-1" id="FxRzFfSAmb0nWTozy4FE">
-    <mxGraphModel dx="2963" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="5348" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,25 +11,25 @@
           <mxGeometry y="50" width="346.67" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-9" value="Automobile Insured" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="80.32999999999998" y="940" width="346.67" height="260" as="geometry" />
+          <mxGeometry x="-1.4210854715202004e-14" y="900" width="346.67" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-10" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;IAVIN&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;IALicPlateNo&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;IAState&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;IAMake&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;IAModel&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;IAYear&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-9">
           <mxGeometry y="50" width="346.67" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-11" value="Policy Agent" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="773.67" y="940" width="346.67" height="260" as="geometry" />
+          <mxGeometry x="853" y="900" width="346.67" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-12" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;AgentNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;AgentName&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;AgentPhone&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;AgentRegion&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;AgentDept&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-11">
           <mxGeometry y="50" width="346.67" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-13" value="Policy Item" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="80.32999999999998" y="180" width="346.67" height="260" as="geometry" />
+          <mxGeometry x="-1.4210854715202004e-14" y="220" width="346.67" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-14" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;ItemId&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ItemName&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ItemMinCoverage&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ItemMaxCoverage&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ItemDesc&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PlComments&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-13">
           <mxGeometry y="50" width="346.67" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-15" value="Policy Claim" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="773.67" y="80" width="346.67" height="360" as="geometry" />
+          <mxGeometry x="853" y="120" width="346.67" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Ztp7_FgXqzvNlsa7f-ME-16" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;ClaimNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClaimSubDate&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClaimDecDate&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClmtNo&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClmtSSN&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClmtName&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClmtCity&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClmtState&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;ClmtZip&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-15">
           <mxGeometry y="50" width="346.67" height="310" as="geometry" />
