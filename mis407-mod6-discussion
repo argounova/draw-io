@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T19:45:34.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="-OlCugQnO_HIbeVBwbdV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T20:03:35.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RoRBONNGLIzcyhMaF0Tm" version="24.6.4" type="github">
   <diagram name="Page-1" id="FxRzFfSAmb0nWTozy4FE">
-    <mxGraphModel>
+    <mxGraphModel dx="4148" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-7" value="Automobile Policy" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="560" width="346.67" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-8" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;PolNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolPremium&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolGroupRating&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PlLimits&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-7">
+          <mxGeometry y="50" width="346.67" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-9" value="Automobile Insured" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="80.32999999999998" y="940" width="346.67" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-10" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;PolNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolPremium&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolGroupRating&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PlLimits&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-9">
+          <mxGeometry y="50" width="346.67" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-11" value="Policy Agent" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="773.67" y="940" width="346.67" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-12" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;PolNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolPremium&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolGroupRating&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PlLimits&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-11">
+          <mxGeometry y="50" width="346.67" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-13" value="Policy Item" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="80.32999999999998" y="180" width="346.67" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-14" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;PolNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolPremium&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolGroupRating&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PlLimits&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-13">
+          <mxGeometry y="50" width="346.67" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-15" value="Policy Claim" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=34;fontStyle=0;strokeWidth=4;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="773.6700000000001" y="180" width="346.67" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ztp7_FgXqzvNlsa7f-ME-16" value="&lt;u style=&quot;font-size: 28px;&quot;&gt;PolNo&lt;/u&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolPremium&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PolGroupRating&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;PlLimits&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=28;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ztp7_FgXqzvNlsa7f-ME-15">
+          <mxGeometry y="50" width="346.67" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
